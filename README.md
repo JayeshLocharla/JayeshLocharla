@@ -7,6 +7,26 @@
 - 💬 Feel free to ping me any time
 - 👩🏻‍💻 My [Portfolio](https://jayeshlocharla.github.io/portfolio/)
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JayeshLocharla&show_icons=true&theme=tokyonight" alt="Jayesh :: Profile Stats
+"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayeshLocharla&theme=tokyonight&layout=compact" alt="Jayesh :: Top language"/>
+</p>
+
+---
+
+<i>My Interests 🙂</i>
+- Love ❤️ EDM 🎵 </li>
+- 👀 Always keen to know latest Tech 📱 Updates</li>
+- 🎮 I love playing FPS games</li>
+- ♂️ Fitness is love </li>
+
+---
+
 <p align="center">
 <br> <i> Ping Me Here! </i>
 <p align="center">
@@ -20,19 +40,3 @@
   <img height="32" width="32" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" /> </a>
 </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JayeshLocharla&show_icons=true&theme=tokyonight" alt="Jayesh :: Profile Stats
-"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayeshLocharla&theme=tokyonight&layout=compact" alt="Jayesh :: Top language"/>
-</p>
-
-<details>
-  <summary><i>My Interests 🙂</i></summary>
- <li> Love ❤️ EDM 🎵 </li>
-  <li> 👀 Always keen to know latest Tech 📱 Updates</li>
-  <li> 🎮 I love playing FPS games</li>
-  <li> 🏋️‍♂️ Fitness is love </li>
- </details>
