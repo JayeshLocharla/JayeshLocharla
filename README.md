@@ -1,16 +1,33 @@
-### Hi there 👋
+<h2 align="center"> Hi there 👋, I'm Jayesh </h2>
 
-<!--
-**JayeshLocharla/JayeshLocharla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **I am a CSE Big Data Analytics student at SRMIST, Chennai.**
+- 🔭 I’m currently working on building my profile as a **Data Analyst**
+- 🌱 I’m currently learning **Data Science** and its applications
+- 🛠 Motivating myself into building few useful projects
+- 💬 Feel free to ping me any time
+- 👩🏻‍💻 My [Portfolio](https://jayeshlocharla.github.io/portfolio/)
 
-Here are some ideas to get you started:
+<p align="center">
+<br> <i> Ping Me Here! </i>
+<p align="center">
+<a href = "https://twitter.com/jayeshlocharla">
+  <img height="32" width="32" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" /> </a>
+<a href = "https://www.linkedin.com/in/jayesh-locharla-872726192/">
+  <img height="32" width="32" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> </a>
+<a href = "https://www.instagram.com/jayeshlocharla__/">
+  <img height="32" width="32" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" /> </a>
+<a href = "https://www.facebook.com/jayesh.locharla/">
+  <img height="32" width="32" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" /> </a>
+</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JayeshLocharla&show_icons=true&theme=tokyonight%22%20alt=%22Jayesh%20::%20Profile%20Stats"/></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayeshLocharla&theme=tokyonight&layout=compact%22%20alt=%22Jayesh%20::%20Top%20language"/></p>
+
+<details>
+  <summary><i>My Interests 🙂</i></summary>
+ <li> Love ❤️ EDM 🎵 </li>
+  <li> 👀 Always keen to know latest Tech 📱 Updates</li>
+  <li> 🎮 I love playing FPS games</li>
+  <li> 🏋️‍♂️ Fitness is love </li>
+ </details>
