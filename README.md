@@ -23,7 +23,7 @@
 - Love ❤️ EDM 🎵 </li>
 - 👀 Always keen to know latest Tech 📱 Updates</li>
 - 🎮 I love playing FPS games</li>
-- ♂️ Fitness is love </li>
+- 💪 Fitness is love </li>
 
 ---
 
