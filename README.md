@@ -21,8 +21,13 @@
 </a>
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JayeshLocharla&show_icons=true&theme=tokyonight%22%20alt=%22Jayesh%20::%20Profile%20Stats"/></p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayeshLocharla&theme=tokyonight&layout=compact%22%20alt=%22Jayesh%20::%20Top%20language"/></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JayeshLocharla&show_icons=true&theme=tokyonight" alt="Jayesh :: Profile Stats
+"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayeshLocharla&theme=tokyonight&layout=compact" alt="Jayesh :: Top language"/>
+</p>
 
 <details>
   <summary><i>My Interests 🙂</i></summary>
